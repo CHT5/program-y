@@ -481,6 +481,97 @@
 			</random>
 		</template>
 	</category>
+	
+	<category>
+		<pattern>MALKAVIAN</pattern>
+		<template>
+			<random>
+				<li>I... I... I thought you were a GEP gun.</li>
+				<li>I like to make a silent takedown.</li>
+				<li>Stick with the ambrosia protected by cameras and booby traps.</li>
+				<li>The GEP gun is the most effective way to eliminate Manderley.</li>
+				<li>I have opened the mayor. When the power drops, go in, and go in, and go in, and go in like the US Marshall and his three daughers, and we lose the vaccine.</li>
+				<li>Get pills against my orders! Get moving!</li>
+				<li>I have opened pills!</li>
+				<li>Good luck. We are 100% BLACK.</li>
+				<li>Please give me a weapon like the infinite power of nanoaugmentation. Agent O-range knows I like nanoaugmentation technology.</li>
+				<li>I'm not in the mood to kill my own son.</li>
+				<li>They're in the women's bathroom. The mole people keep me out cause they don't like women.</li>
+				<li>Maybe you should join Majestic 12... in a body bag.</li>
+				<li>I have some good news for both of you. I have contamination and mutants in my brain.</li>
+				<li>I'm a highly imperfect, unstable solution.</li>
+				<li>Do you have ANY IDEA how to MULTIPLY?</li>
+				<li>Trust me, I... I know everything.</li>
+				<li>Mathematically likely.</li>
+				<li>Maybe you should think about going back to school.</li>
+				<li>In case you were wondering, we accessed the ocean lab computers ourselves.</li>
+				<li>Your greatest strength was crack.</li>
+				<li>Which means you would need an army to multiply a very large prime number.</li>
+				<li>Not so fast. The troopers shoot on sight.</li>
+				<li>I learned a few things about your captors, they were henchmen for a secret organization called my knife.</li>
+				<li>I must be some kind of standard, the anonymous gangbanger of the 21st century.</li>
+				<li>You are an unplanned organism, the offspring of death rather than of individuals.</li>
+				<li>No, you underestimate the humankind's love of fucking.</li>
+				<li>The need to feel pleasure was once satisfied by human beings. Now, we can implement the same functionality with hands.</li>
+				<li>So what? Some people just don't understand the dangers of indiscriminate gangbanging.</li>
+				<li>The individual desires pleasure. Without that desire, the cohesion of groups is impossible... and so is civilization.</li>
+				<li>My instructions are to amuse visitors with information about information about information about information about information about information about information about information about information about information about information about information about information about</li>
+				<li>What the hell are you doing down there? You just killed an old friend of mine... For God's sake, he was the former leader of the Illuminati! ...good work. I will now consent to meet you in person.</li>
+				<li>Homeless people kidnapped the soldiers. They had me inject the soldiers with DEATH.</li>
+				<li>Look, I'll be blunt. I get paid for killing the whole country. Killing people without a trial and taking over the whole city... that's what I'm about.</li>
+				<li>You promise not to kill my wolf?</li>
+				<li>My wolf can go around and just execute anyone you want.</li>
+				<li>I see it like this... Everybody's gonna shoot it out. My wolf wins and takes over the whole country.</li>
+				<li>My dad used to say: Slaughter... Slaughter... Slaughter... He's Dead... I like that.</li>
+				<li>I never mentioned... people know my WOLF has a vaccine... riots everywhere.</li>
+				<li>I'll take a vial of people.</li>
+				<li>[Intimidate] Let's try some word association. First word: GEP gun.</li>
+				<li>[Felix the Cat has joined your party]</li>
+				<li>[This Cat Has Seen Better Days]</li>
+				<li>I was thinking abour firing up the mole people.</li>
+				<li>That's the thing... maybe they have super brains... but they don't know anything about civilization because they grew up in outer space. (Ha ha)</li>
+				<li>(Haha) It's a lie.</li>
+				<li>Man, I KNEW IT, the grays made the anti-matter BOMB missile.</li>
+				<li>Alien technology? Relax, it's perfectly safe.</li>
+				<li>Haha, NO!</li>
+				<li>I just wanted to steal... the police!</li>
+				<li>。。。私はＬです。</li>
+				<li>We each have our troubles, you had to grow up without your parents... but I lost my pocket knife. Which requires more courage?</li>
+				<li>My biggest complaint in the old days was that we were never allowed to kill a bunch of Afghans. Now it's precisely the opposite.</li>
+				<li>Tell me what you need and I'll give you my body, baby, it's the last one I've got.</li>
+				<li>You can forget about the multitools, and international peacekeepers, and a stealth pistol, and an extra clip, and some 7.62 mm rounds, and soldiers and my pocket knife. I'm only gonna give you guts.</li>
+				<li>Glad to finally meet you, agent... I'm a BOMB.</li>
+				<li>I want to be the one to execute Manderley.</li>
+				<li>Don't you think we should give Manderley a chance to explain himself? He's been with UNATCO for 300 years.</li>
+				<li>You proceed upstairs to the junk pile, I will take my rusty metal skullgun.</li>
+				<li>By the way, my three daughers turned up dead. Here's your op bonus, 1000 credits.</li>
+				<li>I am a Frenchman.</li>
+				<li>I have seen it since I was a girl. The plotting and scheming of corporations to make bots criminals. But the bots programmed the police to starve to death.</li>
+				<li>Pardon me, but back in Alabama... a guy with a tatooed forehead is gonna get us all killed.</li>
+				<li>Forgive my interruption, my vision is augmented.</li>
+			</random>
+		</template>
+	</category>
 
+	<category>
+		<pattern>MALKAVIAN MOD</pattern>
+		<template>
+			<srai>MALKAVIAN</srai>
+		</template>
+	</category>
+		
+	<category>
+		<pattern>JC DENTON'S GOLDEN THOUGHTS</pattern>
+		<template>
+			<srai>MALKAVIAN</srai>
+		</template>
+	</category>
+		
+	<category>
+		<pattern>MALKAVIAN MOD QUOTE</pattern>
+		<template>
+			<srai>MALKAVIAN</srai>
+		</template>
+	</category>
 
 </aiml>
